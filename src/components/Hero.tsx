@@ -1,5 +1,5 @@
 
-import React from 'react'
+
 import Particulas from './ui/Particulas';
 import { TextGenerateEffect } from './ui/TextGenerateEffect';
 

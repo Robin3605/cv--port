@@ -1,7 +1,7 @@
 import Grid from './components/Grid';
 import Hero from './components/Hero';
 
-import React from 'react';
+
 import RecentProjects from './components/RecentProjects';
 import Experience from './components/Experience';
 import Clients from './components/Clients';
